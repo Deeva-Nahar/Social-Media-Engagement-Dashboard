@@ -1,5 +1,5 @@
 # Social Media Engagement Dashboard
-![Dashboard](Screenshots/Social_Media_Engagement_Dashboard.pbix)
+[Download Power BI Dashboard](Social_Media_Engagement_Dashboard.pbix)
 
 ## Overview
 
