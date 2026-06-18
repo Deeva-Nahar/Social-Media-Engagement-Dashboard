@@ -1,7 +1,7 @@
 # Social Media Engagement Dashboard
-# Business Process Optimization & Efficiency Dashboard
+## Dashboard Preview
 
-![Dashboard Overview](Social_Media_Engagement_Dashboard.png)
+![Social Media Engagement Dashboard](Social_Media_Engagement_Dashboard.png)
 
 ## Overview
 
