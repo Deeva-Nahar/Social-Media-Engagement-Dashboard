@@ -143,7 +143,7 @@ This dashboard helps organizations:
 ## Project Files
 
 - Social_Media_Engagement_Dashboard.pbix
-- Social_Media_Engagement_Dataset.xlsx
+- AI_Powered_Social_Media_Engagement_Dataset.xlsx
 - Social_Media_Engagement_Project_Report.docx
 - Social_Media_Engagement_Dashboard.png
 
