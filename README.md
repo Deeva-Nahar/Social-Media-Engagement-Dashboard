@@ -1,5 +1,7 @@
 # Social Media Engagement Dashboard
-[Download Power BI Dashboard](Social_Media_Engagement_Dashboard.pbix)
+# Business Process Optimization & Efficiency Dashboard
+
+![Dashboard Overview](Social_Media_Engagement_Dashboard.png)
 
 ## Overview
 
