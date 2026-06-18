@@ -1,4 +1,5 @@
 # Social Media Engagement Dashboard
+![Dashboard](Screenshots/Social_Media_Engagement_Dashboard.png)
 
 ## Overview
 
@@ -97,9 +98,6 @@ Tracks engagement performance over time and helps identify patterns and fluctuat
 
 ---
 
-## Dashboard Preview
-
-![Social Media Engagement Dashboard](Social_Media_Engagement_Dashboard.png)
 
 ---
 
