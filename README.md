@@ -1,5 +1,7 @@
 # Social Media Engagement Dashboard
-![Social Media Engagement Dashboard](./Social_Media_Engagement_Dashboard.png)
+## Dashboard Preview
+
+![Dashboard Preview](Social_Media_Engagement_Dashboard.png)
 
 ## Overview
 
